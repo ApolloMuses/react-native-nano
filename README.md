@@ -1,3 +1,6 @@
+The purpose of this library is to create a React Native Nano binding for iOS/Android platforms utilizing Brainblocks' native architecture.
+
+
 
 # react-native-nano
 
